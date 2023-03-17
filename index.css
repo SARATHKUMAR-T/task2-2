@@ -1,0 +1,36 @@
+.body{
+    background-color:#E6E6E9;
+}
+.box{
+    height: 88vh;
+    border: 1px solid black;
+    margin: 5vh 10vh ;
+    border-top:1px double black ;
+}
+.mbox{
+    border: 1px solid black;
+    height: 22rem;
+    position: static;
+    
+}
+.lbox{
+    border: 1px solid black;
+height: 12rem;
+width: 14rem;
+position: absolute;
+top: 5vh;
+left: 10vh;
+display: flex;
+}
+
+
+.xg{
+    position: relative;
+left: 25vh;
+top: 5vh;
+display: flex;
+flex-direction: column;
+}
+.ig{
+    margin: 5px 70px;
+}
